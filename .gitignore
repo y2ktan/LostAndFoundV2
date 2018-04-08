@@ -1,8 +1,8 @@
-.vs/
-platforms/
-LostAndFound/bld/
-LostAndFound/bin/
-LostAndFound/node_modules
-debug.log
-simulation/
-LostAndFound/*.jsproj
+lostAndFoundApp/.vs/
+lostAndFoundApp/platforms/
+lostAndFoundApp/bld/
+lostAndFoundApp/bin/
+lostAndFoundApp/node_modules
+lostAndFoundApp/debug.log
+lostAndFoundApp/simulation/
+lostAndFoundApp/*.jsproj
